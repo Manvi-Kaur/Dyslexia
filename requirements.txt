@@ -36,14 +36,6 @@ jupyterlab-server==2.4.0
 jupyterlab-widgets==1.0.0
 MarkupSafe==1.1.1
 mistune==0.8.4
-mysql==8.0.25==h57928b3_0
-mysql-client==8.0.25==h0b1230a_0
-mysql-common==8.0.25==h57928b3_0
-mysql-connector-c==6.1.11==h33f27b4_1
-mysql-devel==8.0.25==h57928b3_0
-mysql-libs==8.0.25==hb8c0690_0
-mysql-server==8.0.25==h4d62a65_0
-mysqlclient==1.3.14==py37he774522_0
 nbclassic==0.2.7
 nbclient==0.5.3
 nbconvert==6.0.7
